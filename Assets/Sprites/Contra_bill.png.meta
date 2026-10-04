@@ -1,0 +1,7332 @@
+fileFormatVersion: 2
+guid: c7483b3ac242e2e4b810449a34d9bd4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 674658452762773449
+    second: Contra_bill_0
+  - first:
+      213: 6109472005772198556
+    second: Contra_bill_1
+  - first:
+      213: 8345841405360240925
+    second: Contra_bill_2
+  - first:
+      213: 3667270330160397642
+    second: Contra_bill_3
+  - first:
+      213: 1238035123755769508
+    second: Contra_bill_4
+  - first:
+      213: 70724162948415514
+    second: Contra_bill_5
+  - first:
+      213: -8673161858371328514
+    second: Contra_bill_6
+  - first:
+      213: 597083300488061361
+    second: Contra_bill_7
+  - first:
+      213: -4576321320613126037
+    second: Contra_bill_8
+  - first:
+      213: -8681186005025832372
+    second: Contra_bill_9
+  - first:
+      213: -476574439718726343
+    second: Contra_bill_10
+  - first:
+      213: -1847741421446821967
+    second: Contra_bill_11
+  - first:
+      213: -8500667548109142526
+    second: Contra_bill_12
+  - first:
+      213: 8635767788769875736
+    second: Contra_bill_13
+  - first:
+      213: 2705954140989334478
+    second: Contra_bill_14
+  - first:
+      213: -2647250724424579985
+    second: Contra_bill_15
+  - first:
+      213: 4740588258199230807
+    second: Contra_bill_16
+  - first:
+      213: -7365553554477020737
+    second: Contra_bill_17
+  - first:
+      213: 6981217954057004840
+    second: Contra_bill_18
+  - first:
+      213: 8556403194502884384
+    second: Contra_bill_19
+  - first:
+      213: -5361112693204426013
+    second: Contra_bill_20
+  - first:
+      213: -8057041546264696084
+    second: Contra_bill_21
+  - first:
+      213: -5486517443093191855
+    second: Contra_bill_22
+  - first:
+      213: -2021686155475545152
+    second: Contra_bill_23
+  - first:
+      213: 7003339524448057962
+    second: Contra_bill_24
+  - first:
+      213: 5755385915487438739
+    second: Contra_bill_25
+  - first:
+      213: -77836906809427893
+    second: Contra_bill_26
+  - first:
+      213: 7051049600650063362
+    second: Contra_bill_27
+  - first:
+      213: -576799225368480549
+    second: Contra_bill_28
+  - first:
+      213: -5105416297083770635
+    second: Contra_bill_29
+  - first:
+      213: 2685400083988041076
+    second: Contra_bill_30
+  - first:
+      213: -3729045189885990118
+    second: Contra_bill_31
+  - first:
+      213: -5743272845834227694
+    second: Contra_bill_32
+  - first:
+      213: 8114323658937579762
+    second: Contra_bill_33
+  - first:
+      213: 5553912177671512696
+    second: Contra_bill_34
+  - first:
+      213: -7423572326735129564
+    second: Contra_bill_35
+  - first:
+      213: 5066656130859859527
+    second: Contra_bill_36
+  - first:
+      213: -8304230948238164864
+    second: Contra_bill_37
+  - first:
+      213: -737142122675157122
+    second: Contra_bill_38
+  - first:
+      213: -2167965037929496452
+    second: Contra_bill_39
+  - first:
+      213: -1713687170936580967
+    second: Contra_bill_40
+  - first:
+      213: 4923076553947110665
+    second: Contra_bill_41
+  - first:
+      213: -4722158779056381166
+    second: Contra_bill_42
+  - first:
+      213: 4085776507498103173
+    second: Contra_bill_43
+  - first:
+      213: 4606256425117812039
+    second: Contra_bill_44
+  - first:
+      213: -8186274970019737335
+    second: Contra_bill_45
+  - first:
+      213: -5819128894887654046
+    second: Contra_bill_46
+  - first:
+      213: -4695698499290812861
+    second: Contra_bill_47
+  - first:
+      213: 7462525054591464454
+    second: Contra_bill_48
+  - first:
+      213: -4532794000337565682
+    second: Contra_bill_49
+  - first:
+      213: -8729655644324838784
+    second: Contra_bill_50
+  - first:
+      213: 6566709365000318590
+    second: Contra_bill_51
+  - first:
+      213: -22932834760919687
+    second: Contra_bill_52
+  - first:
+      213: -2835897146913376898
+    second: Contra_bill_53
+  - first:
+      213: -2946236577550200744
+    second: Contra_bill_54
+  - first:
+      213: -4089949909752057048
+    second: Contra_bill_55
+  - first:
+      213: -7910845099693272768
+    second: Contra_bill_56
+  - first:
+      213: 2233160999328931515
+    second: Contra_bill_57
+  - first:
+      213: 3796753122593105370
+    second: Contra_bill_58
+  - first:
+      213: 2298053316113734119
+    second: Contra_bill_59
+  - first:
+      213: 4256541329378838445
+    second: Contra_bill_60
+  - first:
+      213: 7059556123699751963
+    second: Contra_bill_61
+  - first:
+      213: 397865911466309148
+    second: Contra_bill_62
+  - first:
+      213: 1530748566188706189
+    second: Contra_bill_63
+  - first:
+      213: -1959403196313733185
+    second: Contra_bill_64
+  - first:
+      213: -5870496438041920811
+    second: Contra_bill_65
+  - first:
+      213: 4235644942403353296
+    second: Contra_bill_66
+  - first:
+      213: 1338575796561408205
+    second: Contra_bill_67
+  - first:
+      213: -5133701425219590290
+    second: Contra_bill_68
+  - first:
+      213: -2475577852705006382
+    second: Contra_bill_69
+  - first:
+      213: -4316198311207603674
+    second: Contra_bill_70
+  - first:
+      213: 6386253075091068032
+    second: Contra_bill_71
+  - first:
+      213: 5067874766906152498
+    second: Contra_bill_72
+  - first:
+      213: -3102920643745169341
+    second: Contra_bill_73
+  - first:
+      213: -6695284244463633351
+    second: Contra_bill_74
+  - first:
+      213: 5514148400889581051
+    second: Contra_bill_75
+  - first:
+      213: 1687169966462347359
+    second: Contra_bill_76
+  - first:
+      213: 3885855483908869288
+    second: Contra_bill_77
+  - first:
+      213: -4410031179347365582
+    second: Contra_bill_78
+  - first:
+      213: 7626502936655480237
+    second: Contra_bill_79
+  - first:
+      213: -5568311238211074386
+    second: Contra_bill_80
+  - first:
+      213: 4012857076629224091
+    second: Contra_bill_81
+  - first:
+      213: 953710401795160839
+    second: Contra_bill_82
+  - first:
+      213: -2585844145136539852
+    second: Contra_bill_83
+  - first:
+      213: -9075947190294106006
+    second: Contra_bill_84
+  - first:
+      213: -4388148961136357555
+    second: Contra_bill_85
+  - first:
+      213: -3419826702133230687
+    second: Contra_bill_86
+  - first:
+      213: 9135482867084449298
+    second: Contra_bill_87
+  - first:
+      213: -4021802433021997875
+    second: Contra_bill_88
+  - first:
+      213: -6372266573134684774
+    second: Contra_bill_89
+  - first:
+      213: 8246427310396517982
+    second: Contra_bill_90
+  - first:
+      213: -8163240697479600336
+    second: Contra_bill_91
+  - first:
+      213: 7810975505605815340
+    second: Contra_bill_92
+  - first:
+      213: -113254540089049112
+    second: Contra_bill_93
+  - first:
+      213: -4965614171195419971
+    second: Contra_bill_94
+  - first:
+      213: -4743321696750761740
+    second: Contra_bill_95
+  - first:
+      213: 6795507000259252503
+    second: Contra_bill_96
+  - first:
+      213: 8781366890183703297
+    second: Contra_bill_97
+  - first:
+      213: 5557068888937704664
+    second: Contra_bill_98
+  - first:
+      213: 5906354388135381871
+    second: Contra_bill_99
+  - first:
+      213: 6032344881199461611
+    second: Contra_bill_100
+  - first:
+      213: -4077994271065771632
+    second: Contra_bill_101
+  - first:
+      213: 8534681373213268126
+    second: Contra_bill_102
+  - first:
+      213: -8016425327308463212
+    second: Contra_bill_103
+  - first:
+      213: 4324602709477874179
+    second: Contra_bill_104
+  - first:
+      213: 8969694937197156884
+    second: Contra_bill_105
+  - first:
+      213: 4591174351179690039
+    second: Contra_bill_106
+  - first:
+      213: -1986608463161126083
+    second: Contra_bill_107
+  - first:
+      213: 8274142795493084780
+    second: Contra_bill_108
+  - first:
+      213: -908835676490835898
+    second: Contra_bill_109
+  - first:
+      213: -4286128709962305313
+    second: Contra_bill_110
+  - first:
+      213: 407750189974586088
+    second: Contra_bill_111
+  - first:
+      213: 8388659875178695238
+    second: Contra_bill_112
+  - first:
+      213: -5074675138123807364
+    second: Contra_bill_113
+  - first:
+      213: -9018771333228222349
+    second: Contra_bill_114
+  - first:
+      213: -2796899185099229847
+    second: Contra_bill_115
+  - first:
+      213: -1494149605854596972
+    second: Contra_bill_116
+  - first:
+      213: 7660409080591021597
+    second: Contra_bill_117
+  - first:
+      213: -7433075595875596492
+    second: Contra_bill_118
+  - first:
+      213: -621956269095390124
+    second: Contra_bill_119
+  - first:
+      213: 8591644706844043396
+    second: Contra_bill_120
+  - first:
+      213: -4797944503654071743
+    second: Contra_bill_121
+  - first:
+      213: 7964487676405758451
+    second: Contra_bill_122
+  - first:
+      213: -8121089499966238081
+    second: Contra_bill_123
+  - first:
+      213: 7917396342707382761
+    second: Contra_bill_124
+  - first:
+      213: 8177233893125225875
+    second: Contra_bill_125
+  - first:
+      213: 8564925454733467687
+    second: Contra_bill_126
+  - first:
+      213: -429529978993631899
+    second: Contra_bill_127
+  - first:
+      213: 4735317599184312335
+    second: Contra_bill_128
+  - first:
+      213: -664831485187180072
+    second: Contra_bill_129
+  - first:
+      213: -8808561792513598226
+    second: Contra_bill_130
+  - first:
+      213: -2746649495564264501
+    second: Contra_bill_131
+  - first:
+      213: 5834240638855070621
+    second: Contra_bill_132
+  - first:
+      213: -7917591208303678244
+    second: Contra_bill_133
+  - first:
+      213: 4532759139409710830
+    second: Contra_bill_134
+  - first:
+      213: -6913295920674189105
+    second: Contra_bill_135
+  - first:
+      213: -3003050230712208658
+    second: Contra_bill_136
+  - first:
+      213: -2438924173402459952
+    second: Contra_bill_137
+  - first:
+      213: 3258818327384547228
+    second: Contra_bill_138
+  - first:
+      213: -2237912405187374729
+    second: Contra_bill_139
+  - first:
+      213: 2814870616151675807
+    second: Contra_bill_140
+  - first:
+      213: 1113495734423668122
+    second: Contra_bill_141
+  - first:
+      213: -3979117396082765246
+    second: Contra_bill_142
+  - first:
+      213: -5758360573889099363
+    second: Contra_bill_143
+  - first:
+      213: -7357799502358343930
+    second: Contra_bill_144
+  - first:
+      213: -5079380350934545192
+    second: Contra_bill_145
+  - first:
+      213: -1398359905354908443
+    second: Contra_bill_146
+  - first:
+      213: 5218380874175961866
+    second: Contra_bill_147
+  - first:
+      213: -4481625402426380289
+    second: Contra_bill_148
+  - first:
+      213: -528961473931715246
+    second: Contra_bill_149
+  - first:
+      213: 3965853689603980242
+    second: Contra_bill_150
+  - first:
+      213: -7325610780185343458
+    second: Contra_bill_151
+  - first:
+      213: 603247167021354870
+    second: Contra_bill_152
+  - first:
+      213: 1804353430741968164
+    second: Contra_bill_153
+  - first:
+      213: -8326299855048557762
+    second: Contra_bill_154
+  - first:
+      213: 8923761562738253102
+    second: Contra_bill_155
+  - first:
+      213: -3083444308141869931
+    second: Contra_bill_156
+  - first:
+      213: -6986145046898683247
+    second: Contra_bill_157
+  - first:
+      213: -8022562360591310053
+    second: Contra_bill_158
+  - first:
+      213: -2659923618577061356
+    second: Contra_bill_159
+  - first:
+      213: 8240377605658866657
+    second: Contra_bill_160
+  - first:
+      213: -5081316655239488401
+    second: Contra_bill_161
+  - first:
+      213: -1362027245340972645
+    second: Contra_bill_162
+  - first:
+      213: 7852941252100959837
+    second: Contra_bill_163
+  - first:
+      213: -7543318715925498432
+    second: Contra_bill_164
+  - first:
+      213: 7915824569283623261
+    second: Contra_bill_165
+  - first:
+      213: -677437171151955491
+    second: Contra_bill_166
+  - first:
+      213: -1716269881443667751
+    second: Contra_bill_167
+  - first:
+      213: 1679089889689109101
+    second: Contra_bill_168
+  - first:
+      213: 5409792521596369515
+    second: Contra_bill_169
+  - first:
+      213: 7599920029088836731
+    second: Contra_bill_170
+  - first:
+      213: -6569586587608370609
+    second: Contra_bill_171
+  - first:
+      213: -1459861162387526727
+    second: Contra_bill_172
+  - first:
+      213: 7118233602795644543
+    second: Contra_bill_173
+  - first:
+      213: 1454800607885082824
+    second: Contra_bill_174
+  - first:
+      213: 1288231749270133920
+    second: Contra_bill_175
+  - first:
+      213: -3484810629907286294
+    second: Contra_bill_176
+  - first:
+      213: 5122215500372016090
+    second: Contra_bill_177
+  - first:
+      213: -5659037103120595802
+    second: Contra_bill_178
+  - first:
+      213: -9156089005803307659
+    second: Contra_bill_179
+  - first:
+      213: 5667694614823362578
+    second: Contra_bill_180
+  - first:
+      213: 8707313407944136807
+    second: Contra_bill_181
+  - first:
+      213: 6209372085636080344
+    second: Contra_bill_182
+  - first:
+      213: -6002165623249865438
+    second: Contra_bill_183
+  - first:
+      213: 8512558871922455731
+    second: Contra_bill_184
+  - first:
+      213: 8924722863358527818
+    second: Contra_bill_185
+  - first:
+      213: 2835178479597920979
+    second: Contra_bill_186
+  - first:
+      213: 5502040246358095220
+    second: Contra_bill_187
+  - first:
+      213: -9042992075247312709
+    second: Contra_bill_188
+  - first:
+      213: -2546392300361406193
+    second: Contra_bill_189
+  - first:
+      213: -2680760023630482508
+    second: Contra_bill_190
+  - first:
+      213: -8592335066788796936
+    second: Contra_bill_191
+  - first:
+      213: 848602878057070958
+    second: Contra_bill_192
+  - first:
+      213: -5923336889090677969
+    second: Contra_bill_193
+  - first:
+      213: 4427245758569666936
+    second: Contra_bill_194
+  - first:
+      213: -6553985274892692504
+    second: Contra_bill_195
+  - first:
+      213: 3938140193987715189
+    second: Contra_bill_196
+  - first:
+      213: -6860942284811570391
+    second: Contra_bill_197
+  - first:
+      213: 2732549974915485983
+    second: Contra_bill_198
+  - first:
+      213: -9202108547179862233
+    second: Contra_bill_199
+  - first:
+      213: 1609236728573884766
+    second: Contra_bill_200
+  - first:
+      213: -9179997765518601257
+    second: Contra_bill_201
+  - first:
+      213: 1202527277454351501
+    second: Contra_bill_202
+  - first:
+      213: -7175073605571060743
+    second: Contra_bill_203
+  - first:
+      213: 6005650113470543662
+    second: Contra_bill_204
+  - first:
+      213: -73601999615177077
+    second: Contra_bill_205
+  - first:
+      213: -28753697914343427
+    second: Contra_bill_206
+  - first:
+      213: 374090540251212977
+    second: Contra_bill_207
+  - first:
+      213: -448547149826518712
+    second: Contra_bill_208
+  - first:
+      213: 2393695598339257961
+    second: Contra_bill_209
+  - first:
+      213: 6897534940328404054
+    second: Contra_bill_210
+  - first:
+      213: 7342683061389828765
+    second: Contra_bill_211
+  - first:
+      213: 4748727749121967323
+    second: Contra_bill_212
+  - first:
+      213: 4337966579941484409
+    second: Contra_bill_213
+  - first:
+      213: -6073922775932029872
+    second: Contra_bill_214
+  - first:
+      213: 3782588823446160769
+    second: Contra_bill_215
+  - first:
+      213: 7376210049313417432
+    second: Contra_bill_216
+  - first:
+      213: 8354237988775448822
+    second: Contra_bill_217
+  - first:
+      213: -2116262967535165538
+    second: Contra_bill_218
+  - first:
+      213: -5577686464073829236
+    second: Contra_bill_219
+  - first:
+      213: -3547801656931758836
+    second: Contra_bill_220
+  - first:
+      213: -5043819635933104184
+    second: Contra_bill_221
+  - first:
+      213: 2944712016146652036
+    second: Contra_bill_222
+  - first:
+      213: 480550560104709310
+    second: Contra_bill_223
+  - first:
+      213: 1027097758433848772
+    second: Contra_bill_224
+  - first:
+      213: -8648806378671263248
+    second: Contra_bill_225
+  - first:
+      213: 2211192331696293249
+    second: Contra_bill_226
+  - first:
+      213: 3415483905202912920
+    second: Contra_bill_227
+  - first:
+      213: 5622940693747990638
+    second: Contra_bill_228
+  - first:
+      213: 786612795393044103
+    second: Contra_bill_229
+  - first:
+      213: 2962665904410578594
+    second: Contra_bill_230
+  - first:
+      213: -5509185181831314077
+    second: Contra_bill_231
+  - first:
+      213: 5385330272940746525
+    second: Contra_bill_232
+  - first:
+      213: -1827044846766174077
+    second: Contra_bill_233
+  - first:
+      213: -6712800153268354583
+    second: Contra_bill_234
+  - first:
+      213: 4717367717480541633
+    second: Contra_bill_235
+  - first:
+      213: -6978378544674913081
+    second: Contra_bill_236
+  - first:
+      213: -7775725938222513583
+    second: Contra_bill_237
+  - first:
+      213: -1561670833871708845
+    second: Contra_bill_238
+  - first:
+      213: 2369593211086377321
+    second: Contra_bill_239
+  - first:
+      213: -391264992234363250
+    second: Contra_bill_240
+  - first:
+      213: 8132047266191991908
+    second: Contra_bill_241
+  - first:
+      213: 3178700123117351741
+    second: Contra_bill_242
+  - first:
+      213: 7941997824428375847
+    second: Contra_bill_243
+  - first:
+      213: -1263030402919815994
+    second: Contra_bill_244
+  - first:
+      213: -2291631271515015169
+    second: Contra_bill_245
+  - first:
+      213: 3093987427892146386
+    second: Contra_bill_246
+  - first:
+      213: -6905667144584569411
+    second: Contra_bill_247
+  - first:
+      213: 8421101549468705028
+    second: Contra_bill_248
+  - first:
+      213: -1675623344838597932
+    second: Contra_bill_249
+  - first:
+      213: -6984233141345376203
+    second: Contra_bill_250
+  - first:
+      213: -6736420886237079509
+    second: Contra_bill_251
+  - first:
+      213: -877119994739230539
+    second: Contra_bill_252
+  - first:
+      213: -7007969547141046690
+    second: Contra_bill_253
+  - first:
+      213: -2453565489172799924
+    second: Contra_bill_254
+  - first:
+      213: -8554238922369251136
+    second: Contra_bill_255
+  - first:
+      213: 2381566381854105093
+    second: Contra_bill_256
+  - first:
+      213: -8695988125452880892
+    second: Contra_bill_257
+  - first:
+      213: 2189584654039054250
+    second: Contra_bill_258
+  - first:
+      213: 7737207685489148924
+    second: Contra_bill_259
+  - first:
+      213: -5854424452012633276
+    second: Contra_bill_260
+  - first:
+      213: 9218810463922362601
+    second: Contra_bill_261
+  - first:
+      213: -5456396190493186998
+    second: Contra_bill_262
+  - first:
+      213: -780628686554643189
+    second: Contra_bill_263
+  - first:
+      213: 5334418736977646338
+    second: Contra_bill_264
+  - first:
+      213: -5663730555443942951
+    second: Contra_bill_265
+  - first:
+      213: 4880247508820554077
+    second: Contra_bill_266
+  - first:
+      213: -7639385833993439912
+    second: Contra_bill_267
+  - first:
+      213: 2828599506000289641
+    second: Contra_bill_268
+  - first:
+      213: 8451864457450325262
+    second: Contra_bill_269
+  - first:
+      213: -8484464138921557671
+    second: Contra_bill_270
+  - first:
+      213: 6563528192006235082
+    second: Contra_bill_271
+  - first:
+      213: -3346007485198226014
+    second: Contra_bill_272
+  - first:
+      213: -8091262269944827567
+    second: Contra_bill_273
+  - first:
+      213: 7731718561346215280
+    second: Contra_bill_274
+  - first:
+      213: -8894054036544848762
+    second: Contra_bill_275
+  - first:
+      213: -5441602544543421346
+    second: Contra_bill_276
+  - first:
+      213: 4608131019633396438
+    second: Contra_bill_277
+  - first:
+      213: 6982165405408868531
+    second: Contra_bill_278
+  - first:
+      213: -2066376818423904715
+    second: Contra_bill_279
+  - first:
+      213: 6830152986917765538
+    second: Contra_bill_280
+  - first:
+      213: -6854891876368369542
+    second: Contra_bill_281
+  - first:
+      213: 2343747638727398854
+    second: Contra_bill_282
+  - first:
+      213: 195084115493165001
+    second: Contra_bill_283
+  - first:
+      213: -4369578997000235694
+    second: Contra_bill_284
+  - first:
+      213: -6509117942696136570
+    second: Contra_bill_285
+  - first:
+      213: -9212579148801894026
+    second: Contra_bill_286
+  - first:
+      213: -3786670165272622704
+    second: Contra_bill_287
+  - first:
+      213: -6894187090980822217
+    second: Contra_bill_288
+  - first:
+      213: -8179719390893598589
+    second: Contra_bill_289
+  - first:
+      213: -781951789909107124
+    second: Contra_bill_290
+  - first:
+      213: -8199742678378183705
+    second: Contra_bill_291
+  - first:
+      213: 5540121611995857186
+    second: Contra_bill_292
+  - first:
+      213: 2476569653884402772
+    second: Contra_bill_293
+  - first:
+      213: -3501724577442498567
+    second: Contra_bill_294
+  - first:
+      213: -78251205896874127
+    second: Contra_bill_295
+  - first:
+      213: 6588631009084374385
+    second: Contra_bill_296
+  - first:
+      213: -8080895817483870509
+    second: Contra_bill_297
+  - first:
+      213: 4031667389628204038
+    second: Contra_bill_298
+  - first:
+      213: -2934276482554598984
+    second: Contra_bill_299
+  - first:
+      213: 1224993945821290281
+    second: Contra_bill_300
+  - first:
+      213: -4504394398741278286
+    second: Contra_bill_301
+  - first:
+      213: 5835122621786203560
+    second: Contra_bill_302
+  - first:
+      213: -2652581792764435196
+    second: Contra_bill_303
+  - first:
+      213: 3845655277293394223
+    second: Contra_bill_304
+  - first:
+      213: 4304678361348618543
+    second: Contra_bill_305
+  - first:
+      213: -8727150359535622657
+    second: Contra_bill_306
+  - first:
+      213: -5393666308938589377
+    second: Contra_bill_307
+  - first:
+      213: -1756829596220310750
+    second: Contra_bill_308
+  - first:
+      213: -9105524161042603726
+    second: Contra_bill_309
+  - first:
+      213: 8841951942148168658
+    second: Contra_bill_310
+  - first:
+      213: 2778476736639768643
+    second: Contra_bill_311
+  - first:
+      213: -1237934330607581663
+    second: Contra_bill_312
+  - first:
+      213: -5382225546895058400
+    second: Contra_bill_313
+  - first:
+      213: 8282442328867716780
+    second: Contra_bill_314
+  - first:
+      213: -9011086218724801574
+    second: Contra_bill_315
+  - first:
+      213: -6621385715503598179
+    second: Contra_bill_316
+  - first:
+      213: -1286733750184591519
+    second: Contra_bill_317
+  - first:
+      213: 4692124859908956804
+    second: Contra_bill_318
+  - first:
+      213: 259225308281284971
+    second: Contra_bill_319
+  - first:
+      213: 71831583004467263
+    second: Contra_bill_320
+  - first:
+      213: 77467014081093939
+    second: Contra_bill_321
+  - first:
+      213: -1020205861002464705
+    second: Contra_bill_322
+  - first:
+      213: 4969458753621574959
+    second: Contra_bill_323
+  - first:
+      213: -9043537961613343465
+    second: Contra_bill_324
+  - first:
+      213: 7643318041004656347
+    second: Contra_bill_325
+  - first:
+      213: 8973215137229893598
+    second: Contra_bill_326
+  - first:
+      213: 7458311258275694258
+    second: Contra_bill_327
+  - first:
+      213: -6545607938726004804
+    second: Contra_bill_328
+  - first:
+      213: -6729902879319866791
+    second: Contra_bill_329
+  - first:
+      213: 3891714894976237744
+    second: Contra_bill_330
+  - first:
+      213: 407076635126538259
+    second: Contra_bill_331
+  - first:
+      213: -5737609762975554300
+    second: Contra_bill_332
+  - first:
+      213: 842584305346033297
+    second: Contra_bill_333
+  - first:
+      213: 6097136700559120004
+    second: Contra_bill_334
+  - first:
+      213: 5270872289790514601
+    second: Contra_bill_335
+  - first:
+      213: -2841014451045683510
+    second: Contra_bill_336
+  - first:
+      213: -8098145820138788132
+    second: Contra_bill_337
+  - first:
+      213: -7490842279786831117
+    second: Contra_bill_338
+  - first:
+      213: 3450985394431228560
+    second: Contra_bill_339
+  - first:
+      213: -7876808002354928191
+    second: Contra_bill_340
+  - first:
+      213: -4120563812816002308
+    second: Contra_bill_341
+  - first:
+      213: 2351937367328918446
+    second: Contra_bill_342
+  - first:
+      213: -2202185863117176366
+    second: Contra_bill_343
+  - first:
+      213: -1211249601452954161
+    second: Contra_bill_344
+  - first:
+      213: -2353588639144787183
+    second: Contra_bill_345
+  - first:
+      213: 5685697297292519667
+    second: Contra_bill_346
+  - first:
+      213: 3718690654913869241
+    second: Contra_bill_347
+  - first:
+      213: -4295981814809663054
+    second: Contra_bill_348
+  - first:
+      213: 6648797516418092710
+    second: Contra_bill_349
+  - first:
+      213: -4908383040899691486
+    second: Contra_bill_350
+  - first:
+      213: -6973948286316363149
+    second: Contra_bill_351
+  - first:
+      213: -1987370033624947465
+    second: Contra_bill_352
+  - first:
+      213: 2398547939115544998
+    second: Contra_bill_353
+  - first:
+      213: -2802165640631192051
+    second: Contra_bill_354
+  - first:
+      213: -8159429079397682968
+    second: Contra_bill_355
+  - first:
+      213: -2639292366058756215
+    second: Contra_bill_356
+  - first:
+      213: 8835858116394700369
+    second: Contra_bill_357
+  - first:
+      213: -124116601864753899
+    second: Contra_bill_358
+  - first:
+      213: -1596884841971237544
+    second: Contra_bill_359
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Contra_bill_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 882
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae5beab2626e2110800000000000000
+      internalID: 1238035123755769508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 881
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10c39160434bf000800000000000000
+      internalID: 70724162948415514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 881
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef56f400e3db2a780800000000000000
+      internalID: -8673161858371328514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 882
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1a8ea2914494800800000000000000
+      internalID: 597083300488061361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_8
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 881
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60eeca5104ad70c0800000000000000
+      internalID: -4576321320613126037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_9
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 881
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42c755c25b368780800000000000000
+      internalID: -8681186005025832372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_10
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 882
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935d883721ed269f0800000000000000
+      internalID: -476574439718726343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_11
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 881
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b703e987f08b56e0800000000000000
+      internalID: -1847741421446821967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_12
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 881
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206834947ef870a80800000000000000
+      internalID: -8500667548109142526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_13
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 881
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8179364bc0968d770800000000000000
+      internalID: 8635767788769875736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_14
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 882
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3aa2854fa7d8520800000000000000
+      internalID: 2705954140989334478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_15
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 881
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64074bed73134bd0800000000000000
+      internalID: -2647250724424579985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 816
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7595a5477e3f9c140800000000000000
+      internalID: 4740588258199230807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_17
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 817
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9084b011c48c990800000000000000
+      internalID: -7365553554477020737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 816
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827a52bbdb442e060800000000000000
+      internalID: 6981217954057004840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 816
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cac532f537eb670800000000000000
+      internalID: 8556403194502884384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 817
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e266b0f8608995b0800000000000000
+      internalID: -5361112693204426013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_21
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 816
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea2456d663af2090800000000000000
+      internalID: -8057041546264696084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_22
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 816
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153227e4479fbd3b0800000000000000
+      internalID: -5486517443093191855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_23
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 817
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c31e87272781f3e0800000000000000
+      internalID: -2021686155475545152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_24
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 816
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6afd24313cd03160800000000000000
+      internalID: 7003339524448057962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_25
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 816
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3974aed2ffc3fdf40800000000000000
+      internalID: 5755385915487438739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_26
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 817
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b487533eeb77beef0800000000000000
+      internalID: -77836906809427893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_27
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 816
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e2864f04c5ad160800000000000000
+      internalID: 7051049600650063362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_28
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 822
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4f039192ccef7f0800000000000000
+      internalID: -576799225368480549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_29
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 825
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8e4dd6deae529b0800000000000000
+      internalID: -5105416297083770635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_30
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 824
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d49e50625744520800000000000000
+      internalID: 2685400083988041076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_31
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 825
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b67793825cf3cc0800000000000000
+      internalID: -3729045189885990118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 760
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21077ef96cbcb40b0800000000000000
+      internalID: -5743272845834227694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 765
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8b583506edb9070800000000000000
+      internalID: 8114323658937579762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_34
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 766
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872a3df13b5731d40800000000000000
+      internalID: 5553912177671512696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_35
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 767
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4245884fc4c2af890800000000000000
+      internalID: -7423572326735129564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 767
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ef4fe18e0605640800000000000000
+      internalID: 5066656130859859527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_37
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 767
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c757543f171cc80800000000000000
+      internalID: -8304230948238164864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_38
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 767
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7748fc152525c5f0800000000000000
+      internalID: -737142122675157122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_39
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 767
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c700fbcc847d9e1e0800000000000000
+      internalID: -2167965037929496452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_40
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 767
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9945e28f892c738e0800000000000000
+      internalID: -1713687170936580967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_41
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 766
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d5210da08425440800000000000000
+      internalID: 4923076553947110665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_42
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 767
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2132a590c95877eb0800000000000000
+      internalID: -4722158779056381166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_43
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 757
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5818f01161893b830800000000000000
+      internalID: 4085776507498103173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_44
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 760
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745028b40d5bcef30800000000000000
+      internalID: 4606256425117812039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_45
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 757
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9015d4a9942846e80800000000000000
+      internalID: -8186274970019737335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_46
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 759
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d8206e91d4e3fa0800000000000000
+      internalID: -5819128894887654046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_47
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 757
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34eaf61081785deb0800000000000000
+      internalID: -4695698499290812861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_48
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 689
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604706ebff6309760800000000000000
+      internalID: 7462525054591464454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_49
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 687
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e088bd95fd74811c0800000000000000
+      internalID: -4532794000337565682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 686
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082c88471780ad680800000000000000
+      internalID: -8729655644324838784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_51
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 689
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e23142063a12b50800000000000000
+      internalID: 6566709365000318590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 687
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975f16255b68eaff0800000000000000
+      internalID: -22932834760919687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_53
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 686
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e753fa2f19ed4a8d0800000000000000
+      internalID: -2835897146913376898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_54
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 684
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8509bda417ddc17d0800000000000000
+      internalID: -2946236577550200744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_55
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 683
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82376100a349d37c0800000000000000
+      internalID: -4089949909752057048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_56
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 683
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04194a79b48073290800000000000000
+      internalID: -7910845099693272768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_57
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 682
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbed14bd818cdfe10800000000000000
+      internalID: 2233160999328931515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_58
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 679
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5640459d6c0b430800000000000000
+      internalID: 3796753122593105370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_59
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 677
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e91eddb05354ef10800000000000000
+      internalID: 2298053316113734119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_60
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 684
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7056579c5421b30800000000000000
+      internalID: 4256541329378838445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_61
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 681
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cae0134e498f160800000000000000
+      internalID: 7059556123699751963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_62
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 681
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16bf2140f0858500800000000000000
+      internalID: 397865911466309148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_63
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 687
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89cd10f5bf4e3510800000000000000
+      internalID: 1530748566188706189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_64
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 613
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb774ff9c2dcec4e0800000000000000
+      internalID: -1959403196313733185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_65
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 614
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dab053c79ec78ea0800000000000000
+      internalID: -5870496438041920811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 613
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dab1aa32a808ca30800000000000000
+      internalID: 4235644942403353296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_67
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 613
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc07afa4893939210800000000000000
+      internalID: 1338575796561408205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_73
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 613
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340c75f4d1630f4d0800000000000000
+      internalID: -3102920643745169341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_74
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 614
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cb97ae3729513a0800000000000000
+      internalID: -6695284244463633351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_75
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 613
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdcfc161c0368c40800000000000000
+      internalID: 5514148400889581051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_76
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 613
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5822be35280a6710800000000000000
+      internalID: 1687169966462347359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_77
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 613
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac44e679f45de530800000000000000
+      internalID: 3885855483908869288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_78
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 614
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2317a9af10c6cc2c0800000000000000
+      internalID: -4410031179347365582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_79
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 613
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5c2d19308c6d960800000000000000
+      internalID: 7626502936655480237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_80
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 548
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea60d975e6269b2b0800000000000000
+      internalID: -5568311238211074386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_81
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 549
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ab5ea004880b730800000000000000
+      internalID: 4012857076629224091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 548
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b7895be824c3d00800000000000000
+      internalID: 953710401795160839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_83
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 548
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437ec9c437c3d1cd0800000000000000
+      internalID: -2585844145136539852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_84
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 549
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60b05aed12cb0280800000000000000
+      internalID: -9075947190294106006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_85
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 548
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fc7fde4c92a13c0800000000000000
+      internalID: -4388148961136357555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_86
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 548
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a304f1cbb55a80d0800000000000000
+      internalID: -3419826702133230687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_87
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 549
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2165c380441c7ce70800000000000000
+      internalID: 9135482867084449298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_88
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 548
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc0ceedeffaf28c0800000000000000
+      internalID: -4021802433021997875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_89
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 548
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d163e30592197a0800000000000000
+      internalID: -6372266573134684774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_90
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 549
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ea34682f1317270800000000000000
+      internalID: 8246427310396517982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_91
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 548
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03767ba16d756be80800000000000000
+      internalID: -8163240697479600336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_92
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 554
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c69e886d8266c60800000000000000
+      internalID: 7810975505605815340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_93
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 557
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efbac88893ad6ef0800000000000000
+      internalID: -113254540089049112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_94
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 556
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db250426838961bb0800000000000000
+      internalID: -4965614171195419971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_95
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 557
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f884c94c065c2eb0800000000000000
+      internalID: -4743321696750761740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_96
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 492
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7111223dc9d7e4e50800000000000000
+      internalID: 6795507000259252503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_97
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 497
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bb6c339aeadd970800000000000000
+      internalID: 8781366890183703297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_98
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 498
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dca18d36bcae1d40800000000000000
+      internalID: 5557068888937704664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_99
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 499
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b0166d50697f150800000000000000
+      internalID: 5906354388135381871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_100
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 499
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be43a8e65b137b350800000000000000
+      internalID: 6032344881199461611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_101
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 499
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091fb0d01dd0867c0800000000000000
+      internalID: -4077994271065771632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_102
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 499
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9815818d77417670800000000000000
+      internalID: 8534681373213268126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_103
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 499
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493a55d33afefb090800000000000000
+      internalID: -8016425327308463212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_104
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 499
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ade156043140c30800000000000000
+      internalID: 4324602709477874179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_105
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 498
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a914b9502ca7c70800000000000000
+      internalID: 8969694937197156884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_106
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 499
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73033ff4fb027bf30800000000000000
+      internalID: 4591174351179690039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_107
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 489
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d331f75d0262e64e0800000000000000
+      internalID: -1986608463161126083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_108
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 492
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e0932c809a3d270800000000000000
+      internalID: 8274142795493084780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_109
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 489
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648df8774ca2363f0800000000000000
+      internalID: -908835676490835898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_110
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 491
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0f71da5ac9484c0800000000000000
+      internalID: -4286128709962305313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_111
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 489
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2888e23ae98a500800000000000000
+      internalID: 407750189974586088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_112
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 421
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a499126b18a6470800000000000000
+      internalID: 8388659875178695238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_113
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 419
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75cf9149d12399b0800000000000000
+      internalID: -5074675138123807364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 418
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378a4748143e6d280800000000000000
+      internalID: -9018771333228222349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_115
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 421
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965b49f720b6f29d0800000000000000
+      internalID: -2796899185099229847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_116
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 419
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4903fbd89d6b34be0800000000000000
+      internalID: -1494149605854596972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_117
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 418
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16fdc2e87d3f4a60800000000000000
+      internalID: 7660409080591021597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_118
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437c53fa02968d890800000000000000
+      internalID: -7433075595875596492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_119
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 415
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454fdba811e5e57f0800000000000000
+      internalID: -621956269095390124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_120
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 415
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488edc32757ab3770800000000000000
+      internalID: 8591644706844043396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_121
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 414
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14249aff4e64a6db0800000000000000
+      internalID: -4797944503654071743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_122
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 411
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f93422185b878e60800000000000000
+      internalID: 7964487676405758451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_123
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 409
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f729b5d80281c4f80800000000000000
+      internalID: -8121089499966238081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_124
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 416
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9ec09860e30ed60800000000000000
+      internalID: 7917396342707382761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_125
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 413
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d7305a6ee5b7170800000000000000
+      internalID: 8177233893125225875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_126
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 413
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720e619725abcd670800000000000000
+      internalID: 8564925454733467687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_127
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 419
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d14b582c00a0af0800000000000000
+      internalID: -429529978993631899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_128
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 345
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f085906844a37b140800000000000000
+      internalID: 4735317599184312335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_129
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 346
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d93ce1694b06c6f0800000000000000
+      internalID: -664831485187180072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 345
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec162f28b3b1c580800000000000000
+      internalID: -8808561792513598226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_131
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 345
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbd26e06d0f1e9d0800000000000000
+      internalID: -2746649495564264501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_132
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 346
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93ca1d23f267f050800000000000000
+      internalID: 5834240638855070621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_133
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 345
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcad48ceb01f1290800000000000000
+      internalID: -7917591208303678244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_134
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 345
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeecbe4fb6897ee30800000000000000
+      internalID: 4532759139409710830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_135
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 346
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0de050df90f00a0800000000000000
+      internalID: -6913295920674189105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_136
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 345
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee27ebbd9b50356d0800000000000000
+      internalID: -3003050230712208658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_137
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 345
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0bb32e263372ed0800000000000000
+      internalID: -2438924173402459952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_138
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 346
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fd947b006a93d20800000000000000
+      internalID: 3258818327384547228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_139
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 345
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771dd52468651f0e0800000000000000
+      internalID: -2237912405187374729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_140
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 345
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93d76c59ed601720800000000000000
+      internalID: 2814870616151675807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_141
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 345
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a954c3d887ee37f00800000000000000
+      internalID: 1113495734423668122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_142
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 346
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242d8ee7fc557c8c0800000000000000
+      internalID: -3979117396082765246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_143
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 345
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99c9b031913610b0800000000000000
+      internalID: -5758360573889099363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_144
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 280
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f826df558d3e990800000000000000
+      internalID: -7357799502358343930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_145
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 281
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc82778b7a6289b0800000000000000
+      internalID: -5079380350934545192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_146
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 280
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecfb2d2317089ce0800000000000000
+      internalID: -1398359905354908443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_147
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 280
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b53f3c1c96b6840800000000000000
+      internalID: 5218380874175961866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_148
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 281
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff2200f0711ec1c0800000000000000
+      internalID: -4481625402426380289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_149
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 280
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dde6e8750c8a8f0800000000000000
+      internalID: -528961473931715246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_150
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 280
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db74003bea890730800000000000000
+      internalID: 3965853689603980242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_151
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 281
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ac744eec3365a90800000000000000
+      internalID: -7325610780185343458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_152
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 280
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f811e2a1a2f5800800000000000000
+      internalID: 603247167021354870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_153
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 280
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425e1a8a2e95a0910800000000000000
+      internalID: 1804353430741968164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_154
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 281
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bb17e756a037c80800000000000000
+      internalID: -8326299855048557762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_155
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 280
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d5c477cd197db70800000000000000
+      internalID: 8923761562738253102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_156
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 286
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594f0801db76535d0800000000000000
+      internalID: -3083444308141869931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_157
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 289
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192df32181a3c0f90800000000000000
+      internalID: -6986145046898683247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_158
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 288
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b132984d9022aa090800000000000000
+      internalID: -8022562360591310053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_159
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 289
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41aea01df8d061bd0800000000000000
+      internalID: -2659923618577061356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_160
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 224
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e37160e5c3bb5270800000000000000
+      internalID: 8240377605658866657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_161
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 229
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c9c2d8c698b79b0800000000000000
+      internalID: -5081316655239488401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_162
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 230
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b992c0bcf6b191de0800000000000000
+      internalID: -1362027245340972645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_163
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 231
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e2d7d46704bfc60800000000000000
+      internalID: 7852941252100959837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_164
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 231
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c574b5189fb05790800000000000000
+      internalID: -7543318715925498432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_165
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 231
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59b5748188aadd60800000000000000
+      internalID: 7915824569283623261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_166
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 231
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd997d76b724996f0800000000000000
+      internalID: -677437171151955491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_167
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 231
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d039d1d2a59e28e0800000000000000
+      internalID: -1716269881443667751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_168
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 231
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d628ed4cb535d4710800000000000000
+      internalID: 1679089889689109101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_169
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 230
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6af056d2a1731b40800000000000000
+      internalID: 5409792521596369515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_170
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 231
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c67371007587960800000000000000
+      internalID: 7599920029088836731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_171
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42be644ec324d4a0800000000000000
+      internalID: -6569586587608370609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_172
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 224
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bba08ae1088dbbe0800000000000000
+      internalID: -1459861162387526727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_173
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 221
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7622ea6fbb09c260800000000000000
+      internalID: 7118233602795644543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_174
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 223
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0430ce17d703410800000000000000
+      internalID: 1454800607885082824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_175
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 221
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac50ab53f7b0e110800000000000000
+      internalID: 1288231749270133920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_176
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 153
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6fed6023773afc0800000000000000
+      internalID: -3484810629907286294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_177
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 151
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb7ca2ebd3c51740800000000000000
+      internalID: 5122215500372016090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_178
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 150
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4cdb1dcbf0771b0800000000000000
+      internalID: -5659037103120595802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_179
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 153
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dfb3d6f890fe080800000000000000
+      internalID: -9156089005803307659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_180
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 151
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210e0f33932b7ae40800000000000000
+      internalID: 5667694614823362578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_181
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 150
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7689184496796d870800000000000000
+      internalID: 8707313407944136807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_182
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 148
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2a092630f1c2650800000000000000
+      internalID: 6209372085636080344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_183
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 147
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225712f9a2604bca0800000000000000
+      internalID: -6002165623249865438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_184
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 147
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4b98a413fa22670800000000000000
+      internalID: 8512558871922455731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_185
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 146
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49ca45b82cfadb70800000000000000
+      internalID: 8924722863358527818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_186
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 143
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d224474ec3985720800000000000000
+      internalID: 2835178479597920979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_187
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 141
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475b318f37c2b5c40800000000000000
+      internalID: 5502040246358095220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_188
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 148
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb026309e96d08280800000000000000
+      internalID: -9042992075247312709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_189
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 145
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f092b26b1b569acd0800000000000000
+      internalID: -2546392300361406193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_190
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 145
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3ff6736f60ccad0800000000000000
+      internalID: -2680760023630482508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_191
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 151
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5ebe8e7c4e1c880800000000000000
+      internalID: -8592335066788796936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_192
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 102
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6147fd42d7d6cb00800000000000000
+      internalID: 848602878057070958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_193
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2368c88b741ccda0800000000000000
+      internalID: -5923336889090677969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_194
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87956e49f8cb07d30800000000000000
+      internalID: 4427245758569666936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_195
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e351e2fd119b05a0800000000000000
+      internalID: -6553985274892692504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_196
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570635a24a517a630800000000000000
+      internalID: 3938140193987715189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_197
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9237951c75909c0a0800000000000000
+      internalID: -6860942284811570391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_198
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1117d979b7fbe520800000000000000
+      internalID: 2732549974915485983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_199
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72722ccf70b8b4080800000000000000
+      internalID: -9202108547179862233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_200
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59782e4748255610800000000000000
+      internalID: 1609236728573884766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_201
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d352638ba81a9080800000000000000
+      internalID: -9179997765518601257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_202
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c5265003c30b010800000000000000
+      internalID: 1202527277454351501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_203
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 102
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbd7a622940d6c90800000000000000
+      internalID: -7175073605571060743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_204
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2732ba75fa585350800000000000000
+      internalID: 6005650113470543662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_205
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ecd2e0f538afef0800000000000000
+      internalID: -73601999615177077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_206
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff26d10aa8d99ff0800000000000000
+      internalID: -28753697914343427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_207
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bce1854d59013500800000000000000
+      internalID: 374090540251212977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_208
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84193956eb076c9f0800000000000000
+      internalID: -448547149826518712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_209
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9667d6fd67d183120800000000000000
+      internalID: 2393695598339257961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_210
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 111
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654ae18cb77f8bf50800000000000000
+      internalID: 6897534940328404054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_211
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d922b64575376e560800000000000000
+      internalID: 7342683061389828765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_212
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4847d5abed6e140800000000000000
+      internalID: 4748727749121967323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_213
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977ade4fe9d833c30800000000000000
+      internalID: 4337966579941484409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_214
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054ba639a6715bba0800000000000000
+      internalID: -6073922775932029872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_215
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 102
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1850fd07e747e7430800000000000000
+      internalID: 3782588823446160769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_216
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d82ef185ff8d5660800000000000000
+      internalID: 7376210049313417432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_217
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 86
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0d80a203730f370800000000000000
+      internalID: 8354237988775448822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_218
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f90c02b0681a2e0800000000000000
+      internalID: -2116262967535165538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_219
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84ff5876b31892b0800000000000000
+      internalID: -5577686464073829236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_220
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 102
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d4a09a03da3cec0800000000000000
+      internalID: -3547801656931758836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_221
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 99
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c73111b3c0c00ab0800000000000000
+      internalID: -5043819635933104184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_222
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 103
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bde381af7bdd820800000000000000
+      internalID: 2944712016146652036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_223
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 103
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcf7a730324ba600800000000000000
+      internalID: 480550560104709310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_224
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 103
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdac0138fbf04e00800000000000000
+      internalID: 1027097758433848772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_225
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 103
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1ba240c6449f780800000000000000
+      internalID: -8648806378671263248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_226
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 103
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18543d4d5bbbfae10800000000000000
+      internalID: 2211192331696293249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_227
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 103
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89efea9048c366f20800000000000000
+      internalID: 3415483905202912920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_228
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 103
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6000f3f4c2b80e40800000000000000
+      internalID: 5622940693747990638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_229
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eed257b2c9aea00800000000000000
+      internalID: 786612795393044103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_230
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 85
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aecd8471f08d1920800000000000000
+      internalID: 2962665904410578594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_231
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 85
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365491b14417b83b0800000000000000
+      internalID: -5509185181831314077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_232
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 63
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d176accb9598cba40800000000000000
+      internalID: 5385330272940746525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_233
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 75
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3805bc7546805a6e0800000000000000
+      internalID: -1827044846766174077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_234
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1804893d757d2a0800000000000000
+      internalID: -6712800153268354583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_235
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cda25302f4777140800000000000000
+      internalID: 4717367717480541633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_236
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 85
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4c178cfa1d72f90800000000000000
+      internalID: -6978378544674913081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_237
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 86
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152c47de472171490800000000000000
+      internalID: -7775725938222513583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_238
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 85
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d1df296a4d35ae0800000000000000
+      internalID: -1561670833871708845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_239
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 85
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9611bf8887c72e020800000000000000
+      internalID: 2369593211086377321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_240
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 85
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8623d40092f19af0800000000000000
+      internalID: -391264992234363250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_241
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 85
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4646f0637e5dad070800000000000000
+      internalID: 8132047266191991908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_242
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 85
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3376e5abe20d1c20800000000000000
+      internalID: 3178700123117351741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_243
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 65
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f7afb51f4a73e60800000000000000
+      internalID: 7941997824428375847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_244
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 65
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c422755a80d87ee0800000000000000
+      internalID: -1263030402919815994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_245
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 65
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7bb29008d7230e0800000000000000
+      internalID: -2291631271515015169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_246
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 75
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0390b4c2d00fa20800000000000000
+      internalID: 3093987427892146386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_247
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 66
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd53fdd1542a20a0800000000000000
+      internalID: -6905667144584569411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_248
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 66
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401e2990e33cdd470800000000000000
+      internalID: 8421101549468705028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_249
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 60
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d22b89127dfeb8e0800000000000000
+      internalID: -1675623344838597932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_250
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 69
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538299546f4031f90800000000000000
+      internalID: -6984233141345376203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_251
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 69
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28115225ec6382a0800000000000000
+      internalID: -6736420886237079509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_252
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 69
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8fc201308d3d3f0800000000000000
+      internalID: -877119994739230539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_253
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 69
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e17e1a3d0bebe90800000000000000
+      internalID: -7007969547141046690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_254
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 69
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e92b8ef2f23fdd0800000000000000
+      internalID: -2453565489172799924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_255
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 69
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c84c5cb50d394980800000000000000
+      internalID: -8554238922369251136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_256
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 69
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e1d6791060d0120800000000000000
+      internalID: 2381566381854105093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_257
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404bd5b8fd4a15780800000000000000
+      internalID: -8695988125452880892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_258
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 54
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7f4a554a7f26e10800000000000000
+      internalID: 2189584654039054250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_259
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 35
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c00f7565106b60800000000000000
+      internalID: 7737207685489148924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_260
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 19
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4431d6d9af7e0cea0800000000000000
+      internalID: -5854424452012633276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_261
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 29
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e81fb9064bcfef70800000000000000
+      internalID: 9218810463922362601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_262
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 30
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44ebdfe29cf644b0800000000000000
+      internalID: -5456396190493186998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_263
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 10
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b054e647856aa25f0800000000000000
+      internalID: -780628686554643189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_264
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 19
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2039dbc0499a70a40800000000000000
+      internalID: 5334418736977646338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_265
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 19
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9ec3b41136661b0800000000000000
+      internalID: -5663730555443942951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 881
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f2388a723ba6a4ab4b6635d2eda124
+      internalID: 674658452762773449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 882
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3f25483174f154384b3cf37765fe9c
+      internalID: 6109472005772198556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 881
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085ff7985c8e7e34ba00387d7281b14b
+      internalID: 8345841405360240925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 881
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ebc0997a42f2649afb5a8350a7118f
+      internalID: 3667270330160397642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 614
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d539d316972e087408e913ecbc7d16c7
+      internalID: -5133701425219590290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_69
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 613
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2279663d78b7a488cf38d290206e1d
+      internalID: -2475577852705006382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_70
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 613
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ed24c58bb685845bded6400d848723
+      internalID: -4316198311207603674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_71
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 614
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e352f84db6276fd42a5dfc9ac86d8ae4
+      internalID: 6386253075091068032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_72
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 613
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41072fd7a4322d042a100bc6a40ae20c
+      internalID: 5067874766906152498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fc99aee2671b4fa4889f1f043e786d0b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Contra_bill_0: 674658452762773449
+      Contra_bill_1: 6109472005772198556
+      Contra_bill_10: -476574439718726343
+      Contra_bill_100: 6032344881199461611
+      Contra_bill_101: -4077994271065771632
+      Contra_bill_102: 8534681373213268126
+      Contra_bill_103: -8016425327308463212
+      Contra_bill_104: 4324602709477874179
+      Contra_bill_105: 8969694937197156884
+      Contra_bill_106: 4591174351179690039
+      Contra_bill_107: -1986608463161126083
+      Contra_bill_108: 8274142795493084780
+      Contra_bill_109: -908835676490835898
+      Contra_bill_11: -1847741421446821967
+      Contra_bill_110: -4286128709962305313
+      Contra_bill_111: 407750189974586088
+      Contra_bill_112: 8388659875178695238
+      Contra_bill_113: -5074675138123807364
+      Contra_bill_114: -9018771333228222349
+      Contra_bill_115: -2796899185099229847
+      Contra_bill_116: -1494149605854596972
+      Contra_bill_117: 7660409080591021597
+      Contra_bill_118: -7433075595875596492
+      Contra_bill_119: -621956269095390124
+      Contra_bill_12: -8500667548109142526
+      Contra_bill_120: 8591644706844043396
+      Contra_bill_121: -4797944503654071743
+      Contra_bill_122: 7964487676405758451
+      Contra_bill_123: -8121089499966238081
+      Contra_bill_124: 7917396342707382761
+      Contra_bill_125: 8177233893125225875
+      Contra_bill_126: 8564925454733467687
+      Contra_bill_127: -429529978993631899
+      Contra_bill_128: 4735317599184312335
+      Contra_bill_129: -664831485187180072
+      Contra_bill_13: 8635767788769875736
+      Contra_bill_130: -8808561792513598226
+      Contra_bill_131: -2746649495564264501
+      Contra_bill_132: 5834240638855070621
+      Contra_bill_133: -7917591208303678244
+      Contra_bill_134: 4532759139409710830
+      Contra_bill_135: -6913295920674189105
+      Contra_bill_136: -3003050230712208658
+      Contra_bill_137: -2438924173402459952
+      Contra_bill_138: 3258818327384547228
+      Contra_bill_139: -2237912405187374729
+      Contra_bill_14: 2705954140989334478
+      Contra_bill_140: 2814870616151675807
+      Contra_bill_141: 1113495734423668122
+      Contra_bill_142: -3979117396082765246
+      Contra_bill_143: -5758360573889099363
+      Contra_bill_144: -7357799502358343930
+      Contra_bill_145: -5079380350934545192
+      Contra_bill_146: -1398359905354908443
+      Contra_bill_147: 5218380874175961866
+      Contra_bill_148: -4481625402426380289
+      Contra_bill_149: -528961473931715246
+      Contra_bill_15: -2647250724424579985
+      Contra_bill_150: 3965853689603980242
+      Contra_bill_151: -7325610780185343458
+      Contra_bill_152: 603247167021354870
+      Contra_bill_153: 1804353430741968164
+      Contra_bill_154: -8326299855048557762
+      Contra_bill_155: 8923761562738253102
+      Contra_bill_156: -3083444308141869931
+      Contra_bill_157: -6986145046898683247
+      Contra_bill_158: -8022562360591310053
+      Contra_bill_159: -2659923618577061356
+      Contra_bill_16: 4740588258199230807
+      Contra_bill_160: 8240377605658866657
+      Contra_bill_161: -5081316655239488401
+      Contra_bill_162: -1362027245340972645
+      Contra_bill_163: 7852941252100959837
+      Contra_bill_164: -7543318715925498432
+      Contra_bill_165: 7915824569283623261
+      Contra_bill_166: -677437171151955491
+      Contra_bill_167: -1716269881443667751
+      Contra_bill_168: 1679089889689109101
+      Contra_bill_169: 5409792521596369515
+      Contra_bill_17: -7365553554477020737
+      Contra_bill_170: 7599920029088836731
+      Contra_bill_171: -6569586587608370609
+      Contra_bill_172: -1459861162387526727
+      Contra_bill_173: 7118233602795644543
+      Contra_bill_174: 1454800607885082824
+      Contra_bill_175: 1288231749270133920
+      Contra_bill_176: -3484810629907286294
+      Contra_bill_177: 5122215500372016090
+      Contra_bill_178: -5659037103120595802
+      Contra_bill_179: -9156089005803307659
+      Contra_bill_18: 6981217954057004840
+      Contra_bill_180: 5667694614823362578
+      Contra_bill_181: 8707313407944136807
+      Contra_bill_182: 6209372085636080344
+      Contra_bill_183: -6002165623249865438
+      Contra_bill_184: 8512558871922455731
+      Contra_bill_185: 8924722863358527818
+      Contra_bill_186: 2835178479597920979
+      Contra_bill_187: 5502040246358095220
+      Contra_bill_188: -9042992075247312709
+      Contra_bill_189: -2546392300361406193
+      Contra_bill_19: 8556403194502884384
+      Contra_bill_190: -2680760023630482508
+      Contra_bill_191: -8592335066788796936
+      Contra_bill_192: 848602878057070958
+      Contra_bill_193: -5923336889090677969
+      Contra_bill_194: 4427245758569666936
+      Contra_bill_195: -6553985274892692504
+      Contra_bill_196: 3938140193987715189
+      Contra_bill_197: -6860942284811570391
+      Contra_bill_198: 2732549974915485983
+      Contra_bill_199: -9202108547179862233
+      Contra_bill_2: 8345841405360240925
+      Contra_bill_20: -5361112693204426013
+      Contra_bill_200: 1609236728573884766
+      Contra_bill_201: -9179997765518601257
+      Contra_bill_202: 1202527277454351501
+      Contra_bill_203: -7175073605571060743
+      Contra_bill_204: 6005650113470543662
+      Contra_bill_205: -73601999615177077
+      Contra_bill_206: -28753697914343427
+      Contra_bill_207: 374090540251212977
+      Contra_bill_208: -448547149826518712
+      Contra_bill_209: 2393695598339257961
+      Contra_bill_21: -8057041546264696084
+      Contra_bill_210: 6897534940328404054
+      Contra_bill_211: 7342683061389828765
+      Contra_bill_212: 4748727749121967323
+      Contra_bill_213: 4337966579941484409
+      Contra_bill_214: -6073922775932029872
+      Contra_bill_215: 3782588823446160769
+      Contra_bill_216: 7376210049313417432
+      Contra_bill_217: 8354237988775448822
+      Contra_bill_218: -2116262967535165538
+      Contra_bill_219: -5577686464073829236
+      Contra_bill_22: -5486517443093191855
+      Contra_bill_220: -3547801656931758836
+      Contra_bill_221: -5043819635933104184
+      Contra_bill_222: 2944712016146652036
+      Contra_bill_223: 480550560104709310
+      Contra_bill_224: 1027097758433848772
+      Contra_bill_225: -8648806378671263248
+      Contra_bill_226: 2211192331696293249
+      Contra_bill_227: 3415483905202912920
+      Contra_bill_228: 5622940693747990638
+      Contra_bill_229: 786612795393044103
+      Contra_bill_23: -2021686155475545152
+      Contra_bill_230: 2962665904410578594
+      Contra_bill_231: -5509185181831314077
+      Contra_bill_232: 5385330272940746525
+      Contra_bill_233: -1827044846766174077
+      Contra_bill_234: -6712800153268354583
+      Contra_bill_235: 4717367717480541633
+      Contra_bill_236: -6978378544674913081
+      Contra_bill_237: -7775725938222513583
+      Contra_bill_238: -1561670833871708845
+      Contra_bill_239: 2369593211086377321
+      Contra_bill_24: 7003339524448057962
+      Contra_bill_240: -391264992234363250
+      Contra_bill_241: 8132047266191991908
+      Contra_bill_242: 3178700123117351741
+      Contra_bill_243: 7941997824428375847
+      Contra_bill_244: -1263030402919815994
+      Contra_bill_245: -2291631271515015169
+      Contra_bill_246: 3093987427892146386
+      Contra_bill_247: -6905667144584569411
+      Contra_bill_248: 8421101549468705028
+      Contra_bill_249: -1675623344838597932
+      Contra_bill_25: 5755385915487438739
+      Contra_bill_250: -6984233141345376203
+      Contra_bill_251: -6736420886237079509
+      Contra_bill_252: -877119994739230539
+      Contra_bill_253: -7007969547141046690
+      Contra_bill_254: -2453565489172799924
+      Contra_bill_255: -8554238922369251136
+      Contra_bill_256: 2381566381854105093
+      Contra_bill_257: -8695988125452880892
+      Contra_bill_258: 2189584654039054250
+      Contra_bill_259: 7737207685489148924
+      Contra_bill_26: -77836906809427893
+      Contra_bill_260: -5854424452012633276
+      Contra_bill_261: 9218810463922362601
+      Contra_bill_262: -5456396190493186998
+      Contra_bill_263: -780628686554643189
+      Contra_bill_264: 5334418736977646338
+      Contra_bill_265: -5663730555443942951
+      Contra_bill_27: 7051049600650063362
+      Contra_bill_28: -576799225368480549
+      Contra_bill_29: -5105416297083770635
+      Contra_bill_3: 3667270330160397642
+      Contra_bill_30: 2685400083988041076
+      Contra_bill_31: -3729045189885990118
+      Contra_bill_32: -5743272845834227694
+      Contra_bill_33: 8114323658937579762
+      Contra_bill_34: 5553912177671512696
+      Contra_bill_35: -7423572326735129564
+      Contra_bill_36: 5066656130859859527
+      Contra_bill_37: -8304230948238164864
+      Contra_bill_38: -737142122675157122
+      Contra_bill_39: -2167965037929496452
+      Contra_bill_4: 1238035123755769508
+      Contra_bill_40: -1713687170936580967
+      Contra_bill_41: 4923076553947110665
+      Contra_bill_42: -4722158779056381166
+      Contra_bill_43: 4085776507498103173
+      Contra_bill_44: 4606256425117812039
+      Contra_bill_45: -8186274970019737335
+      Contra_bill_46: -5819128894887654046
+      Contra_bill_47: -4695698499290812861
+      Contra_bill_48: 7462525054591464454
+      Contra_bill_49: -4532794000337565682
+      Contra_bill_5: 70724162948415514
+      Contra_bill_50: -8729655644324838784
+      Contra_bill_51: 6566709365000318590
+      Contra_bill_52: -22932834760919687
+      Contra_bill_53: -2835897146913376898
+      Contra_bill_54: -2946236577550200744
+      Contra_bill_55: -4089949909752057048
+      Contra_bill_56: -7910845099693272768
+      Contra_bill_57: 2233160999328931515
+      Contra_bill_58: 3796753122593105370
+      Contra_bill_59: 2298053316113734119
+      Contra_bill_6: -8673161858371328514
+      Contra_bill_60: 4256541329378838445
+      Contra_bill_61: 7059556123699751963
+      Contra_bill_62: 397865911466309148
+      Contra_bill_63: 1530748566188706189
+      Contra_bill_64: -1959403196313733185
+      Contra_bill_65: -5870496438041920811
+      Contra_bill_66: 4235644942403353296
+      Contra_bill_67: 1338575796561408205
+      Contra_bill_68: -5133701425219590290
+      Contra_bill_69: -2475577852705006382
+      Contra_bill_7: 597083300488061361
+      Contra_bill_70: -4316198311207603674
+      Contra_bill_71: 6386253075091068032
+      Contra_bill_72: 5067874766906152498
+      Contra_bill_73: -3102920643745169341
+      Contra_bill_74: -6695284244463633351
+      Contra_bill_75: 5514148400889581051
+      Contra_bill_76: 1687169966462347359
+      Contra_bill_77: 3885855483908869288
+      Contra_bill_78: -4410031179347365582
+      Contra_bill_79: 7626502936655480237
+      Contra_bill_8: -4576321320613126037
+      Contra_bill_80: -5568311238211074386
+      Contra_bill_81: 4012857076629224091
+      Contra_bill_82: 953710401795160839
+      Contra_bill_83: -2585844145136539852
+      Contra_bill_84: -9075947190294106006
+      Contra_bill_85: -4388148961136357555
+      Contra_bill_86: -3419826702133230687
+      Contra_bill_87: 9135482867084449298
+      Contra_bill_88: -4021802433021997875
+      Contra_bill_89: -6372266573134684774
+      Contra_bill_9: -8681186005025832372
+      Contra_bill_90: 8246427310396517982
+      Contra_bill_91: -8163240697479600336
+      Contra_bill_92: 7810975505605815340
+      Contra_bill_93: -113254540089049112
+      Contra_bill_94: -4965614171195419971
+      Contra_bill_95: -4743321696750761740
+      Contra_bill_96: 6795507000259252503
+      Contra_bill_97: 8781366890183703297
+      Contra_bill_98: 5557068888937704664
+      Contra_bill_99: 5906354388135381871
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
